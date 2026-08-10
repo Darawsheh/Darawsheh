@@ -5,6 +5,8 @@ Enterprise .NET · Secure Systems · SaaS Platforms · AI-Enabled Solutions
 
 I design and deliver secure, maintainable enterprise software, combining architecture ownership, technical leadership, and hands-on engineering.
 
+**Public profile:** [darawsheh.github.io/islam-darawsheh/](https://darawsheh.github.io/islam-darawsheh/)
+
 ## Current focus
 
 - Enterprise .NET architecture
@@ -29,11 +31,19 @@ I design and deliver secure, maintainable enterprise software, combining archite
 - Explicit boundaries and responsibilities
 - Evidence-based technical decisions
 
+## Latest technical articles
+
+- [Stop Exposing EF Core Entities from Your .NET 10 APIs](https://darawsheh.github.io/articles/ef-core-entities-not-api-contracts/)
+- [Clean Architecture in .NET 10: Stop Adding Layers, Start Protecting Decisions](https://darawsheh.github.io/articles/clean-architecture-dotnet-10-without-ceremony/)
+- [Clean Architecture vs. DDD Is Usually the Wrong Question](https://darawsheh.github.io/articles/clean-architecture-vs-ddd/)
+
 ## Public work
 
-Public reference implementations and technical guides are being prepared. They will contain original, sanitized examples only and will not reuse proprietary source code.
+Original technical articles and sanitized reference examples are published publicly without exposing proprietary source code or confidential project information.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/darawsheh/)
+- [Professional profile](https://darawsheh.github.io/islam-darawsheh/)
 - [Portfolio](https://darawsheh.github.io/)
+- [Technical articles](https://darawsheh.github.io/articles/)
+- [LinkedIn](https://www.linkedin.com/in/darawsheh/)
